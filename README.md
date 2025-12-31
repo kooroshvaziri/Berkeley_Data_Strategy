@@ -1,4 +1,4 @@
-# 📊 Berkeley: Data Strategy
+# 📊 Berkeley Data Strategy: Leveraging Data as a Competitive Advantage
 ### Leveraging Data as a Competitive Advantage
 
 This repository documents my journey through the **UC Berkeley Executive Education** Data Strategy program. This course serves as a bridge between technical data science and executive leadership, focusing on how to treat data as a high-value corporate asset.
