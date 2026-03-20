@@ -13,5 +13,12 @@ This repository documents my journey through the **UC Berkeley Executive Educati
 - **The Contextualization Phase:** Analyzing the organizational environment for data strategy.
 - **Ideation & Prescription:** Generating data use cases and linking them to implementation plans.
 
+## 💼 Industry Application (Genius Sports)
+For the capstone project, the data strategy frameworks, SWOT analysis, and fly-wheel were applied to create a new data infrastructure and products for regional sports leagues and college teams.
+
+* **Note:** Due to the proprietary nature of these organizational strategy documents and cultural assessments, the specific project deliverables remain confidential.
+
 ---
-*Part of the [Berkeley Certificate of Business Excellence (COBE)](https://executive.berkeley.edu/certificate-business-excellence) program.*
+
+![UC Berkeley Data Strategy Leveraging Data as a Competitive Advantage Certificate](images/KV_Berkeley_Data_Strategy_Leveraging_Data+as_a_Competitive_Advantage_Certificate.jpg)
+*UC Berkeley Professional Certificate: Leading Strategy Execution through Culture*
