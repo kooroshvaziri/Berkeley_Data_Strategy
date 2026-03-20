@@ -20,5 +20,5 @@ For the capstone project, the data strategy frameworks, SWOT analysis, and fly-w
 
 ---
 
-![UC Berkeley Data Strategy Leveraging Data as a Competitive Advantage Certificate](images/KV_Berkeley_Data_Strategy_Leveraging_Data+as_a_Competitive_Advantage_Certificate.jpg)
+![UC Berkeley Data Strategy Leveraging Data as a Competitive Advantage Certificate](images/KV_Berkeley_Data_Strategy_Leveraging_Data_as_a_Competitive_Advantage_Certificate.jpg)
 *UC Berkeley Professional Certificate: Leading Strategy Execution through Culture*
